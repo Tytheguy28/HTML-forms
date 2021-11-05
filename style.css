@@ -1,0 +1,15 @@
+div {
+    margin: 15px 0 15px 15px;
+}
+
+input {
+    display:block;
+}
+
+textarea {
+    display:block;
+}
+
+button {
+    margin: 20px;
+}
